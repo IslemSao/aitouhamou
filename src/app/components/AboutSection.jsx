@@ -18,7 +18,7 @@ const AboutSection = () => {
           </h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-lg mb-8 text-center">
-              I'm a passionate mobile developer with a focus on Android and Flutter. Starting my coding journey at just 13, I began as a front-end developer, gaining experience in various languages like C, C#, Java, and JavaCard. Over the past two years, I’ve honed my skills in Android development using Kotlin and Jetpack Compose, as well as building cross-platform apps with Flutter.
+              I&apos;m a passionate mobile developer with a focus on Android and Flutter. Starting my coding journey at just 13, I began as a front-end developer, gaining experience in various languages like C, C#, Java, and JavaCard. Over the past two years, I’ve honed my skills in Android development using Kotlin and Jetpack Compose, as well as building cross-platform apps with Flutter.
 
               I thrive in leveraging AI for problem-solving and prompt engineering, making workflows more efficient. As a team leader in a five-month project with six members, I’ve developed strong leadership and collaboration skills, delivering high-quality mobile applications.
             </p>
